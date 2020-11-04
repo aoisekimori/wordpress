@@ -1,0 +1,11 @@
+[24-Oct-2020 14:01:51 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /Users/sekimoriaoi/Local Sites/site/app/public/wp-content/themes/blog-theme/footer.php on line 29
+[24-Oct-2020 14:02:20 UTC] PHP Parse error:  syntax error, unexpected '?', expecting end of file in /Users/sekimoriaoi/Local Sites/site/app/public/wp-content/themes/blog-theme/footer.php on line 20
+[24-Oct-2020 14:02:23 UTC] PHP Parse error:  syntax error, unexpected '?', expecting end of file in /Users/sekimoriaoi/Local Sites/site/app/public/wp-content/themes/blog-theme/footer.php on line 20
+[24-Oct-2020 15:54:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _the_category() in /Users/sekimoriaoi/Local Sites/site/app/public/wp-content/themes/blog-theme/archive.php:6
+Stack trace:
+#0 /Users/sekimoriaoi/Local Sites/site/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/sekimoriaoi/Local Sites/site/app/public/wp-blog-header.php(19): require_once('/Users/sekimori...')
+#2 /Users/sekimoriaoi/Local Sites/site/app/public/index.php(17): require('/Users/sekimori...')
+#3 {main}
+  thrown in /Users/sekimoriaoi/Local Sites/site/app/public/wp-content/themes/blog-theme/archive.php on line 6
+[26-Oct-2020 04:34:17 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /Users/sekimoriaoi/Local Sites/site/app/public/wp-content/themes/blog-theme/single.php on line 63
